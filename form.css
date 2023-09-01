@@ -1,8 +1,11 @@
+/* CSS Documentation */
 
+/* Resetting Default Margin for All Elements */
 * {
     margin: 0;
 }
 
+/* Styling for the Body */
 body {
     box-sizing: border-box;
     padding: auto 50px;
@@ -10,6 +13,7 @@ body {
     background-size: cover;
 }
 
+/* Styling for the Form */
 form {
     width: 650px;
     padding: 25px;
@@ -19,23 +23,28 @@ form {
     margin: 20px auto;
 }
 
+/* Styling for Headings */
 h1 {
     margin-bottom: 15px;
 }
 
+/* Styling for All Form Elements (except h1) */
 form *:not(h1){
     padding-left: 15px;
 }
 
+/* Styling for Last Name Input Field */
 #lastName {
     margin-bottom: 10px;
 }
 
+/* Styling for User Email Input Field */
 #userEmail {
     margin: 10px;
     margin-left: 30px;
 }
 
+/* Styling for All Input Fields henceforth after last name and email id input fields*/
 input {
     height: 30px;
     width: 300px;
@@ -43,11 +52,12 @@ input {
     border-radius: 15px;
 }
 
+/* Styling for Input Field Placeholder Text */
 input::placeholder {
     color: rgba(16, 17, 17, 0.695);
 }
 
-
+/* Styling for Review Textarea */
 #review {
     display: block;
     margin: 10px auto;
@@ -56,6 +66,7 @@ input::placeholder {
     border-radius: 5px;
 }
 
+/* Styling for Submit Button */
 button {
     width: 119px;
     padding: 8px;
@@ -70,6 +81,7 @@ button {
     margin-top: 11px;
 }
 
+/* Styling for Hover Effect on Submit Button */
 button:hover{
     scale: 1.03;
     border-radius: 5px;
