@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="form.css">
+    <title>Survey form</title>
+</head>
+<body>
+    <form action="#" method="get">
+        <h1>Please tell us about yourself and your experience at our services.</h1>
+        <div>
+            <label for="firstName">First name:</label>
+            <input type="text" name="firstName" id="firstName" placeholder="First name" required autofocus autocomplete="on">
+        </div>
+        <br>
+        <div>
+            <label for="lastName">Last name:</label>
+            <input type="text" name="lastName" id="lastName" placeholder="Last name" autocomplete="on">
+        </div>
+        <hr>
+        <div>
+            <label for="userEmail">Email-id:</label>
+            <input type="email" name="userEmail" id="userEmail" placeholder="email" required>
+        </div>
+        <hr>
+        <div>
+            <label for="review"><p>Please write about your time at Autobot&copy;:</p></label>
+            <textarea name="review" id="review" cols="30" rows="10" ></textarea>
+        </div>
+        <button>Submit</button>
+    </form>
+</body>
+</html>
