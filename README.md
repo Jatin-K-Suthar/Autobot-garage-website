@@ -7,7 +7,7 @@ The Autobot Garage Website is a testament to my skills in languages such as HTML
 ### HTML5, CSS3, and VCS Proficiency:
   * Proficiency in crafting the website's structure and styling using HTML and CSS.
   * Emphasis on clean, organized, and semantically meaningful code that adheres to coding standards for maintainability.
-  * __Version Control with Git:__ The project is meticulously version-controlled using Git, with clear commit messages that provide insights into the progression of the codebase. This version control practice allows for easy tracking of changes and issue resolution.
+  * __Version Control with Github:__ The project is meticulously version-controlled using Git, with clear commit messages that provide insights into the progression of the codebase. This version control practice allows for easy tracking of changes and issue resolution.
 
 ### User Interface Excellence:
   * Expertise in user interface (UI) design reflected in a polished and intuitive interface.
