@@ -4,9 +4,10 @@ Autobot: Turning automobiles into something more. Elevate your driving experienc
 ## Skills Demonstrated
 The Autobot Garage Website is a testament to my skills in languages such as HTML and CSS, showcasing my ability to create responsive and visually appealing web applications even on a simple, landing page. In addition to technical proficiency, the website's user interface and design highlight my finesse in color psychology and a commitment to delivering excellence. It truly captures the essence of the renowned Autobot brand, the official garage service of Rolls-Royce.
 
-### HTML & CSS Mastery:
+### HTML5, CSS3, and VCS Proficiency:
   * Proficiency in crafting the website's structure and styling using HTML and CSS.
   * Emphasis on clean, organized, and semantically meaningful code that adheres to coding standards for maintainability.
+  * __Version Control with Git:__ The project is meticulously version-controlled using Git, with clear commit messages that provide insights into the progression of the codebase. This version control practice allows for easy tracking of changes and issue resolution.
 
 ### User Interface Excellence:
   * Expertise in user interface (UI) design reflected in a polished and intuitive interface.
